@@ -6,13 +6,13 @@
     />
   </head>
   <body class="container">
-    <form action="action_page.php">
+    <form action="action_page.php" >
       <div class="container"> 
         <h1>New user Registeration for DevOps Learning</h1>
         <p>Please fill in this form to create an account.</p>
         <hr />
 
-        <label for="First_Name"><b>Enter First Name</b></label>
+        <label for="First_Name"><b>First Name</b></label>
         <input
           type="text"
           placeholder="Enter First Name"
@@ -21,7 +21,7 @@
           required
         />
         <br />
-		<label for="Lastst_Name"><b>Enter First Name</b></label>
+		<label for="Lastst_Name"><b>Last Name</b></label>
 		<input
           type="text"
           placeholder="Enter Last Name"
@@ -31,7 +31,7 @@
         />
         <br />
 
-        <label for="mobile"><b>Enter mobile</b></label>
+        <label for="mobile"><b>Mobile No</b></label>
         <input
           type="text"
           placeholder="Enter moible number"
@@ -41,7 +41,7 @@
         />
         <br />
 
-        <label for="email"><b>Enter Email</b></label>
+        <label for="email"><b>Email</b></label>
         <input
           type="text"
           placeholder="Enter Email"
