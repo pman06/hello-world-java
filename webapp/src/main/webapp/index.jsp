@@ -5,7 +5,7 @@
       href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
     />
   </head>
-  <body>
+  <body class="container">
     <form action="action_page.php">
       <div class="container"> 
         <h1>New user Registeration for DevOps Learning</h1>
